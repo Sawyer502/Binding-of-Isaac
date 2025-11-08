@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Binding of Isaac Demo</title>
+  <!-- Load Ruffle from CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@latest/ruffle.js"></script>
+</head>
+<body>
+  <h1>Binding of Isaac Demo</h1>
+  <ruffle-player src="The_Binding_of_Isaac.swf" style="width:800px; height:600px;"></ruffle-player>
+</body>
+</html>
